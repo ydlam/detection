@@ -8,6 +8,7 @@
 >> * 可行驶区域：10万张图片
 >> * 车道线标记：10万张图片
 >> * 全帧实例分割：1万张图片
+
 >> 2.Image Tagging
 >> * 标签类别：GT框标签共有10个类别，分别为：Bus、Light、Sign、Person、Bike、Truck、Motor、Car、Train、Rider。
 >> * 天气、场景和时间
